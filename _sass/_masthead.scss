@@ -3,13 +3,20 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  // position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+
+  // Add for static masthead
+  position: fixed;
+  top: 0;
+  width: 100%;  
+  background: white;
+  height: $masthead-height;
 
   &__inner-wrap {
     @include container;
