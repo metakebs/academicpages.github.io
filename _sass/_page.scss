@@ -399,3 +399,10 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+// Added page__date style modification
+.page__date {
+  font-size: $type-size-6;
+  text-transform: uppercase;
+  margin-top: 0px;
+}
