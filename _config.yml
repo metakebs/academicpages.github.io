@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "metakebs"
   avatar           : "profile.jpg"
-  bio              : "chemical engineer," \n "data science enthusiast," \n "amateur photographer"
+  bio              : "chemical engineer, data science enthusiast, amateur photographer"
   location         : "Metro Manila / PH"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"http://linkedin.com/kdvillavicencio"
+  linkedin         : "kdvillavicencio"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -209,7 +209,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  '
   # _teaching
   - scope:
       path: ""
@@ -219,7 +218,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  '
   # _publications
   - scope:
       path: ""
@@ -257,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: #http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
