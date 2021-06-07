@@ -3,8 +3,8 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Trading"
-    url: /trading/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Photography"
     url: /photography/
