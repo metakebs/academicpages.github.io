@@ -3,17 +3,17 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "CV"
-    url: /cv/
-    
-  - title: "About"
-    url: /markdown/
+  - title: "Trading"
+    url: /trading/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Photography"
+    url: /photography/
+        
+  - title: "Design"
+    url: /design/
+
+#  - title: "About"
+#    url: /markdown/
     
 #  - title: "Talks"
 #    url: /talks/    

@@ -83,7 +83,7 @@ author:
   name             : "metakebs"
   avatar           : "profile.jpg"
   bio              : "cooking up lots of crazy stuff, zero actual cooking skills"
-  location         : "PH"
+  location         : "Manila / PH"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -175,26 +175,66 @@ kramdown:
 
 # Collections
 collections:
-  portfolio:
+  photography:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  design:
     output: true
     permalink: /:collection/:path/
-  publications:
+  trading:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+collections_dir: contents
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
+#  publications:
+#    output: true
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#   permalink: /:collection/:path/
+
 
 
 # Defaults
 defaults:
-  # _posts
+  # _photography
   - scope:
       path: ""
-      type: posts
+      type: photography
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _design
+  - scope:
+      path: ""
+      type: design
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _trading
+  - scope:
+      path: ""
+      type: trading
     values:
       layout: single
       author_profile: true
@@ -310,3 +350,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Jemoji cheat-sheet
+# https://www.webfx.com/tools/emoji-cheat-sheet/
