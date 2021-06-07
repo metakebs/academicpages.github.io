@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "metakebs"
   avatar           : "profile.jpg"
-  bio              : "chemical engineer, data science enthusiast, noob trader, amateur photographer"
-  location         : "Metro Manila / PH"
+  bio              : "cooking up lots of crazy stuff, zero actual cooking skills"
+  location         : "PH"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -265,13 +265,14 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+
 
 
 # Archives
