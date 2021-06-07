@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "metakebs"
   avatar           : "profile.jpg"
-  bio              : "cooking up lots of crazy stuff, zero actual cooking skills"
+  bio              : "cooking up lots of crazy stuff, zero actual culinary skills"
   location         : "Manila / PH"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -181,7 +181,7 @@ collections:
   design:
     output: true
     permalink: /:collection/:path/
-  trading:
+  projects:
     output: true
     permalink: /:collection/:path/
 collections_dir: contents
@@ -231,10 +231,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _trading
+  # projects
   - scope:
       path: ""
-      type: trading
+      type: projects
     values:
       layout: single
       author_profile: true

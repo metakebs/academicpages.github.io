@@ -16,14 +16,15 @@ I'm not sure what compelled you to wander off to this low-traffic wilderness of 
 
 Experience the full glory of its randomness, the harsh competing flavors, and the rare surprising harmonies of the things I do and explore. Hopefully, you can pick up some delight (and value!) from my ramblings. :joy:
 
-**Menu**
+**What's on the menu?**
 ------
-I'll be serving _ample_ amounts of the following stuff:
-* reviews (of whatever)
-* bad trades
-* photography
-* graphic design
+Nothing much, really. I'll be serving a healthy dose of the following stuff:
+* thoughts on anything
+* reflections on losing trades
+* pretentious film reviews 
 * data science attempts
-* anything else
+* photography portfolio
+* graphic design portfolio
+* etc
 
-To top it off, expect some copious amounts of bad humor too, no extra charge! Consider yourself warned! :laugh:
+And the icing on this regrettable cake, expect some copious amounts of bad humor too, no extra charge! Consider yourself warned! :fire:
