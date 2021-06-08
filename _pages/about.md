@@ -8,23 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome to my personal site!**
+**Welcome to my kitchen!**
 ------
-I'll introduce myself as _metakebs_, though I don't think my real name's that hard to guess. 
+I'll introduce myself as _metakebs_, though I don't think my real name's that hard to guess. Thanks for visiting my personal site!
 
 I'm not sure what compelled you to wander off to this low-traffic wilderness of the internet, but since you're already here I hope you enjoy the hodgepodge of my collective interests! 
 
-Experience the full glory of its randomness, the harsh competing flavors, and the rare surprising harmonies of the things I do and explore. Hopefully, you can pick up some delight (and value!) from my ramblings. :joy:
+Feel free to join me as I curate the things I dabble in, and experience the randomness, the rawness, and the diversity of it all. Hopefully, you can find some delight (and value!) from this hot mess lol.
 
 **What's on the menu?**
 ------
-Nothing much, really. I'll be serving a healthy dose of the following stuff:
+Nothing much, really. I usually focus on serving the following stuff:
 * thoughts on anything
-* reflections on losing trades
 * pretentious film reviews 
+* reflections on losing trades
 * data science attempts
 * photography portfolio
 * graphic design portfolio
 * etc
 
-And the icing on this regrettable cake, expect some copious amounts of bad humor too, no extra charge! Consider yourself warned! :fire:
+But the icing on this regrettable cake: expect some generous amount of bad humor, no extra charge! Consider yourself warned! :fire:
